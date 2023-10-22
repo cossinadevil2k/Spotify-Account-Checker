@@ -78,4 +78,4 @@ Replace `path_to_brave` with the appropriate path for your system from step 2.
 
 # Notes
 * Ensure you abide by Spotify's terms of service when using this tool.
-* Accounts listed in working.txt have been verified as valid at the time of checking but may become invalid in the future due to password changes or other reasons.
+* Accounts listed in working.txt have been verified as valid at the time of checking but may become invalid in the future so make sure to check them directly before use.
